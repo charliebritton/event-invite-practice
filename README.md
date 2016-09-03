@@ -6,7 +6,7 @@ This is a small practice project that I did to get my coding skills up *(and yes
 * Use a color scheme for the website (I used an image :P).
 * Find a suitable google font.
 
-You can find a working example of the website [here](https://charliebritton.github.io/event-invite-practive).
+You can find a working example of the website [here](https://charliebritton.github.io/event-invite-practice).
 
 ## Use Cases
 This really serves no use with the way apple handles messages now although if you were sending an invite for something to your colleagues at work, an you still used email, then i suppose this could work.
